@@ -1,5 +1,4 @@
 # ArduinoPhMeter
-Arduino PH Meter
 For this project , that is build up a Arduino base PH meter for monitor PH , Water Temperature and Room Temperature.
 Hardware that you should need is :
   -  Arduino UNO R3
