@@ -14,7 +14,7 @@
   
   Require Library :
   LiquidCrystal : http://arduino.cc/en/Reference/LiquidCrystal
-  OneWire : http://milesburton.com/Dallas_Temperature_Control_Library
+  OneWire : http://www.pjrc.com/teensy/td_libs_OneWire.html
   DallasTemperature : http://milesburton.com/Dallas_Temperature_Control_Library
 
   Serial Communication :
