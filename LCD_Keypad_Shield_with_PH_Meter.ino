@@ -8,9 +8,11 @@
  
   Connection: 
   1) Plug the LCD Keypad to the UNO
-  2) Connect D2 to DS18B20
-  3) Connect A1 to LM35
-  4) Connect A2 to PH 
+  2) Connect Arduino D2 to PH Meter Board T2 (DS18B20)
+  3) Connect Arduino A1 to PH Meter Board T1 (LM35)
+  4) Connect Arduino A2 to PH Meter Board P0 (PH)
+  5) Connect Arduino 5V to PH Meter Board Vcc
+  6) Connect Arduino GND to PH Meter Board GND
   
   Require Library :
   LiquidCrystal : http://arduino.cc/en/Reference/LiquidCrystal
