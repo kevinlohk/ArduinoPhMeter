@@ -1,0 +1,20 @@
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.pdb
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.xml
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.frmMain.resources
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.exe
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.xml
+D:\My Documents\Visual Studio 2010\Projects\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.pdb
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\SerialPortInterface.vbproj.GenerateResource.Cache
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ArduinoPhMeter.frmMain.resources
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ArduinoPhMeter.Resources.resources
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\ArduinoPhMeter.exe
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\ArduinoPhMeter.pdb
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\bin\Debug\ArduinoPhMeter.xml
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ArduinoPhMeter.exe
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ArduinoPhMeter.xml
+D:\Users\kevinlo\Dropbox\PH Meter Project\SerialPortInterface\SerialPortInterface\SerialPortInterface\obj\x86\Debug\ArduinoPhMeter.pdb
